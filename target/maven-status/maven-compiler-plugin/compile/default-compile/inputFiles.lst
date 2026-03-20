@@ -1,0 +1,10 @@
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/OrisSpringApplication.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/api/TestController.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/api/UserController.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/infrastucture/AppConfig.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/persistence/entity/OrisBaseEntity.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/persistence/entity/TestEntity.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/persistence/entity/UserEntity.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/persistence/entity/UserStatus.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/persistence/repository/JpaUserRepository.java
+/Users/timur/Downloads/oris_spring/src/main/java/com/oris_spring/service/UserService.java

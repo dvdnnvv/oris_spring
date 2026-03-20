@@ -1,0 +1,12 @@
+com/oris_spring/persistence/repository/JpaUserRepository.class
+com/oris_spring/persistence/entity/UserStatus.class
+com/oris_spring/api/UserController.class
+com/oris_spring/persistence/entity/OrisBaseEntity.class
+com/oris_spring/OrisSpringApplication.class
+com/oris_spring/persistence/entity/UserEntity.class
+com/oris_spring/persistence/entity/TestEntity.class
+com/oris_spring/persistence/entity/TestEntity$TestEntityBuilder.class
+com/oris_spring/api/TestController.class
+com/oris_spring/service/UserService.class
+com/oris_spring/infrastucture/AppConfig.class
+com/oris_spring/persistence/entity/UserEntity$UserEntityBuilder.class
